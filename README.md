@@ -1,7 +1,9 @@
 # Sales-Dashboard-Project
 This project involves building a Sales Dashboard for a Supermarket Shop to analyze key business metrics like total sales, total profit, sales trends, product performance, and category distribution. The dashboard was developed using Excel with data cleaning, analysis, and visualization techniques.
- Dataset Cleaning & Preprocessing
+![exel w](https://github.com/user-attachments/assets/1ae3e78e-3af9-4fe1-8437-6586bce4fd68)
 
+
+ Dataset Cleaning & Preprocessing
 ## 🛠 Steps Taken:
 
  - Loaded the dataset into Excel and examined the structure (rows, columns, missing values, duplicates).
